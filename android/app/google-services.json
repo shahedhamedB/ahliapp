@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "218628986603",
+    "firebase_url": "https://alahi-pro.firebaseio.com",
+    "project_id": "alahi-pro",
+    "storage_bucket": "alahi-pro.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:218628986603:android:6b8a37d7b59c4d09b990ae",
+        "android_client_info": {
+          "package_name": "com.example.flutteralahlia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "218628986603-dtkgrgnugh5a0m145i9ppvms4659l038.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.flutteralahlia",
+            "certificate_hash": "8d329b15692c6d853de58be1ee9eae86db011158"
+          }
+        },
+        {
+          "client_id": "218628986603-s7ddjli0o4fvr3pkcgqnkgd3q246cgbf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZ3tEcrToV02p2iMI3uKCXIjw-765z-rA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "218628986603-s7ddjli0o4fvr3pkcgqnkgd3q246cgbf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
